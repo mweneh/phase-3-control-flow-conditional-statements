@@ -287,7 +287,7 @@ Otherwise, return "It's perfect out there!"
 hows_the_weather(33)
 # => "Brisk!"
 hows_the_weather(99)
-# => "Too dang hot"
+# =>  
 hows_the_weather(75)
 # => "Perfect!"
 ```
